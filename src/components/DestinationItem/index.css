@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+/src/components/DestinationItem/index.css / .destination-item {
+  text-align: center;
+}
+
+.destination-image {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.destination-name {
+  font-size: 16px;
+}
